@@ -19,6 +19,7 @@ export default function ProjectsPage() {
 
   return (
     <div className="view">
+      {/* jdxnc */}
       <div className="page-head">
         <div>
           <h1>Projects</h1>
